@@ -1,0 +1,8 @@
+PUT http://localhost:3001/api/reservas/62ff73069e74f04a2cbcac99
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyZmVhZWIzNWEyMjdhZTQ5NTVjNGIxOCIsInVzZXJuYW1lIjoiQWxlIiwiaWF0IjoxNjYwODY2Nzk4LCJleHAiOjE2NjE0NzE1OTh9.xrpaSClkPwG3OfL5BQSEf-rphDocXzlWpWm5LFLBEjU
+
+{
+    "content": "D2",
+    "typee": "12/12"
+}

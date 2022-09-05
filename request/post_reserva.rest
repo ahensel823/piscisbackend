@@ -1,0 +1,14 @@
+POST http://localhost:3001/api/reservas 
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyZmVhZWIzNWEyMjdhZTQ5NTVjNGIxOCIsInVzZXJuYW1lIjoiQWxlIiwiaWF0IjoxNjYwODY2Nzk4LCJleHAiOjE2NjE0NzE1OTh9.xrpaSClkPwG3OfL5BQSEf-rphDocXzlWpWm5LFLBEjU
+
+{
+  "pasajeros": 2,
+  "nombre": "Crlds asd",
+  "fechaEntrada": "12/11/2022",
+  "fechaSalida": "14/11/2022",
+  "habitacion": "D2",
+  "precio": "$10200"
+}
+
+
